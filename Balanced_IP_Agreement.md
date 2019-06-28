@@ -1,4 +1,4 @@
-# Balanced Manager, Member & Employee Intellectual Property Agreement 2.0.0
+# Balanced Manager, Member & Employee Intellectual Property Agreement
 
 This BALANCED MANAGER, MEMBER AND EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named below and DIGITAL BLEND SERVICES, LLC, a Texas limited liability company.
 
