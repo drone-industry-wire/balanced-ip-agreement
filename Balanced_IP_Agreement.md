@@ -1,12 +1,13 @@
-# Balanced Employee Intellectual Property Agreement 2.0.0
+# Balanced Manager, Member & Employee Intellectual Property Agreement 2.0.0
 
-This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named below and [COMPANY NAME], a [State of Incorporation] corporation ("Company").
+This BALANCED MANAGER, MEMBER AND EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named below and DIGITAL BLEND SERVICES, LLC, a Texas limited liability company.
 
 **What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company. "IP" includes concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, and works of authorship.
 
-**What is this not?** This document only concerns IP ownership and licensing. Please also refer to the Company employee handbook, your contract, and other policies on security, confidentiality, acting in the Company's best interest, releasing and maintaining Company open source projects, and other topics related to IP and information and the Company's business. Check with the Company's legal department ("Legal") for any situation not clearly and fully addressed by Company policies.
+**What is this not?** This document only concerns IP ownership and licensing. Please also refer to the OPERATING AGREEMENT
+OF DIGITAL BLEND SERVICES, LLC, your contract, and other policies on security, confidentiality, acting in the Company's best interest, releasing and maintaining Company open source projects, and other topics related to IP and information and the Company's business. Check with the Company's legal department ("Legal") for any situation not clearly and fully addressed by Company policies.
 
-**Why is this?** The Company needs to be clear on what IP it owns and has rights to. Its customers, employees, and investors depend on the Company having the legal rights to the products and services it is providing so that the Company can continue operating and doing business.
+**Why is this?** The Company needs to be clear on what IP it owns and has rights to. Its customers, managers, members, employees, and investors depend on the Company having the legal rights to the products and services it is providing so that the Company can continue operating and doing business.
 
 The Company also believes that it's important to be clear on what it doesn't own. The Company doesn't want you looking over your shoulder every time you work on something personal or worrying that the Company will someday seize your open source non-lethal mousetrap simulation software. In other words, the Company isn't interested in appropriating your personal projects.
 
@@ -14,7 +15,7 @@ The Company also believes that it's important to be clear on what it doesn't own
 
 Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
 
-1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create, during the term of your employment or contract work, _within the scope of your employment or contract_. This is regardless of the time of day you did the work or whether or not you did it using your own equipment. Your compensation for creating Company IP is your regular salary or pay. The Company IP is work made for hire, but to the extent Company doesn’t own the rights automatically, you hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
+1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create, during the term of your management, membership, employment, or contract work, _within the scope of your employment or contract_. This is regardless of the time of day you did the work or whether or not you did it using your own equipment. Your compensation for creating Company IP is your regular salary or pay. The Company IP is work made for hire, but to the extent Company doesn’t own the rights automatically, you hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
 
 2. **What the Company doesn't own.** If you create IP outside the scope of your employment or contract, the Company doesn't own it. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
 
